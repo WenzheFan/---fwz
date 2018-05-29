@@ -11,7 +11,7 @@ int secCount;
 ```
 ### 2.按钮事件
 ```
-(IBAction)button:(id)sender {
+-(IBAction)button:(id)sender {
 if (timerRepeat == nil) {
 
 timerRepeat = [NSTimer scheduledTimerWithTimeInterval: 1.0f

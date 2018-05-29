@@ -51,6 +51,7 @@
 		18B70AE620BD346F0053B092 /* 计时器UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "计时器UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		18B70AEA20BD346F0053B092 /* ___UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "___UITests.m"; sourceTree = "<group>"; };
 		18B70AEC20BD346F0053B092 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18B70AF820BD3AB40053B092 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +82,7 @@
 		18B70ABA20BD346C0053B092 = {
 			isa = PBXGroup;
 			children = (
+				18B70AF820BD3AB40053B092 /* README.md */,
 				18B70AC520BD346C0053B092 /* 计时器 */,
 				18B70ADE20BD346E0053B092 /* 计时器Tests */,
 				18B70AE920BD346F0053B092 /* 计时器UITests */,
